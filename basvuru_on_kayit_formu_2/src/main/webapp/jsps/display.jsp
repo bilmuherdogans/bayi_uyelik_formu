@@ -9,7 +9,7 @@
 <body>
 
 <hr>
-<h1 style="font-weight: bold;color: green;">KAYIT BAŞARILI</h1>
+<h1 style="font-weight: bold;color: green;">Kayit Basarili</h1>
 <table>
 <hr>
 <tr>
